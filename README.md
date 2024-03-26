@@ -12,4 +12,21 @@ This project involves analyzing data from New Wheels, a vehicle resale company, 
 ## Data Description
 - Data on vehicles, customers, orders, and shipments.
 
+## Skills & Tools Covered
+Fetching and Filtering techniques to query the data
+
+Aggregating the data using aggregate and window functions
+
+Getting quicker insights using sub-queries and Case When functions
+
+Joining the multiple tables using inner join
+
+left join
+
+right join
+
+Creating mathematical calculations using formulas in SQL queries
+
+Create visualization
+
 
